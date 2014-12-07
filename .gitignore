@@ -57,3 +57,7 @@ target/
 #tableau
 *.tde
 *.twb
+
+#raw data
+*.csv
+
